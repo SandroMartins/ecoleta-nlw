@@ -37,8 +37,6 @@ $ npm install
 ## Backend
 ```bash
 $ npm run dev
-# ou
-$ yarn dev
 ```
 
 ## Frontend
@@ -48,7 +46,5 @@ $ npm start
 
 ## Mobile
 ```bash
-$ npm start
-# ou 
 $ expo start
 ```
